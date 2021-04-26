@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chris-george-anil
+- 👋 Hi, I’m @Chris-George-Anil
 - 👀 I’m interested in football, and learning more on ML
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Web and App Tech
+- 📫 https://chris-george-anil.github.io/AboutMe/ 
 
 <!---
 Chris-george-anil/Chris-george-anil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
