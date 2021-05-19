@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-George-Anil
-- 👀 I’m interested in football, and learning more on ML
+- 👀 I’m interested in learning more on ML and its applications
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web and App Tech
 - 📫 https://chris-george-anil.github.io/AboutMe/ 
