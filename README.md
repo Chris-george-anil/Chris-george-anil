@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris-George-Anil
 - 👀 I’m interested in learning more on ML and its applications
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and OpenCV
 - 💞️ I’m looking to collaborate on Web and App Tech and ML based Projects
 - 📫 https://chris-george-anil.github.io/AboutMe/ 
 
